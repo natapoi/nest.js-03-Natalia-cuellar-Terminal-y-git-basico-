@@ -1,2 +1,1 @@
-Hola mundo
-Hola mundo 2.0
+Conflicto
