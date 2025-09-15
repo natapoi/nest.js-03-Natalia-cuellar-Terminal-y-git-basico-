@@ -1,1 +1,2 @@
 Conflicto
+Resolviendo
